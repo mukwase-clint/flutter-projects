@@ -1,16 +1,66 @@
 # meals_app
 
-A new Flutter project.
+# 🍽️ Meals App
 
-## Getting Started
+A Flutter application that allows users to browse meals, view recipes, save favorite meals, and filter meals based on dietary preferences such as vegan, vegetarian, gluten-free, and lactose-free.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Browse meals by category
+- View meal recipes and cooking steps
+- Add meals to favorites
+- Filter meals by dietary preferences
+- Clean and responsive user interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+
+---
+
+## ⚙️ Available Filters
+
+- Vegan
+- Vegetarian
+- Gluten-Free
+- Lactose-Free
+
+---
+
+## 📂 Project Structure
+
+```bash
+lib/
+├── data/
+├── models/
+├── providers/
+├── screens/
+├──widgets/
+|── main.dart
+```
+
+---
+
+## 📱 Screenshots
+
+Screenshots will be added soon.
+
+---
+
+## 🔮 Future Improvements
+
+- Add dark mode
+- Save favorites locally
+- Add API integration
+- Improve animations
+
+---
+
+## 👤 Author
+
+Clint Mukwase
