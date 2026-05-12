@@ -1,16 +1,52 @@
 # favorite_places_app
 
-A new Flutter project.
+# 📍 Favorite Places App
 
-## Getting Started
+A Flutter application that allows users to save their favorite places by taking pictures and storing location details using the Google Maps API.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add favorite places
+- Capture and store images
+- Save location addresses
+- View saved places
+- Google Maps integration
+- Clean and user-friendly interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- Google Maps API
+
+---
+
+
+## 🔑 Google Maps API Setup
+
+Add your Google Maps API key to the required configuration files before running the app.
+
+---
+
+## 📱 Screenshots
+
+Screenshots will be added soon.
+
+---
+
+## 🔮 Future Improvements
+
+- Display places directly on a map
+- Edit and delete saved places
+- Cloud storage support
+- User authentication
+
+---
+
+## 👤 Author
+
+Clint Mukwase
